@@ -1,0 +1,1 @@
+This is a text file that has some repeated words, this text file that will be used by a file reader program in java using the Apache classes StringUtil and FileUtil. The program will look for unique words and will not count repeated words.
